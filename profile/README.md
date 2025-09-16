@@ -18,9 +18,9 @@ Each repository contains **one data structure** (or a small group of related one
 
 - [queue](https://github.com/datastructures-ts/queue)
 - [stack](https://github.com/datastructures-ts/stack)
+- [priority-queue](https://github.com/datastructures-ts/priority-queue)
 - linked-list  
 - hash-map  
-- heap / priority-queue  
 - graph  
 - trie  
 - tree variants (BST, AVL, Red-Black, etc.)  
